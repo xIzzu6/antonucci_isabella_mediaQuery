@@ -9,13 +9,13 @@
 	max-width: 1140px;
 }
 
-#mobile
+.mobile
 {
 	display: flex;
 	flex-direction: column;
 }
 
-#box1
+.box1
 {
 	background-color: pink;
 	color: #fff;
@@ -24,7 +24,7 @@
 	margin: 10px;
 }
 
-#box2
+.box2
 {
 	background-color: red;
 	color: #fff;
@@ -33,12 +33,12 @@
 	margin: 10px;
 }
 
-#box3
+.box3
 {
 	display: none;
 }
 
-#box4
+.box4
 {
 	display: none;
 }
